@@ -1,0 +1,13 @@
+gnd  dir  pwm slp
+gnd   7       6     5  -motor shield 1
+
+gnd   4       3    2 - motor shield 2
+
+
+for the relay:
+gnd -gnd
+vcc-vin
+in1-10
+in2-11
+in3-12
+in4-13
